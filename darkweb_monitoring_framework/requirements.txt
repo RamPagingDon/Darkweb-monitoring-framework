@@ -1,0 +1,7 @@
+requests
+stem
+re
+logging
+BeautifulSoup4
+json
+argparse
